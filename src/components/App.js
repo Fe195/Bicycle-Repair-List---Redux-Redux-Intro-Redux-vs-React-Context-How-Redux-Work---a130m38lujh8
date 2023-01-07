@@ -1,3 +1,6 @@
+/*import React, {Component, useState} from "react";
+import '../styles/App.css'; */
+
 import React from "react";
 import "../styles/App.css";
 import Form from "./Form";
@@ -13,3 +16,9 @@ function App() {
     </div>
   );
 }
+
+export default App;
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
