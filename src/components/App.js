@@ -18,7 +18,4 @@ function App() {
 }
 
 export default App;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
